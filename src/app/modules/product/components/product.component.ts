@@ -10,6 +10,9 @@ export class ProductComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
+    // for(let i=0; i< 10000; i++) {
+    //   console.log(i)
+    // }
   }
 
 }
